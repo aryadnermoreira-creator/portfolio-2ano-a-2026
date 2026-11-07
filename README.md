@@ -7,12 +7,12 @@ Portfólio pedagógico do 2º Ano A do Lar São José, na Cidade de Goiás.
 - LEIA e AlfaMais;
 - Carnaval;
 - aniversário do Lar São José e de Dom Jeová;
-- FICA;
+- FICA, com galeria exclusiva;
 - Festa Junina;
 - Caminhada da Paz;
 - palestras educativas;
 - desenhos, cadernos e rotina pedagógica;
-- assembleia e croquis;
+- técnica artística de assemblagem e croquis;
 - Vivência 5 — cartazes sobre o Brasil;
 - projeto Cantando e Cuidando do Rio Vermelho;
 - Dia das Crianças;
@@ -49,3 +49,4 @@ Por proteção às crianças, a versão pública não deve incluir contatos, ava
 ## Atualizações futuras
 
 Para adicionar uma memória, inclua a imagem em `assets/images/`, crie o bloco correspondente em `index.html` e escreva uma descrição `alt` objetiva. O eixo sobre povos indígenas deve priorizar autoria indígena, diversidade de povos, presença contemporânea, territórios, línguas e direitos, evitando generalizações e estereótipos.
+
