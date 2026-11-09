@@ -82,6 +82,7 @@ nav a:hover{text-decoration:underline}
 .mini-gallery.two{grid-template-columns:1fr 1fr}.mini-gallery.three{grid-template-columns:2fr 1fr}.mini-gallery.three a:last-child{grid-column:1/-1;height:150px}
 .mini-gallery.four{grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr}.mini-gallery.five{grid-template-columns:repeat(6,1fr);grid-template-rows:1fr 1fr}.mini-gallery.five a{grid-column:span 2}.mini-gallery.five a:nth-child(4){grid-column:2/span 2}
 .mini-gallery.seven{grid-template-columns:repeat(6,1fr);grid-template-rows:repeat(2,1fr)}.mini-gallery.seven a{grid-column:span 2}.mini-gallery.seven a:nth-child(n+4){grid-column:span 1}
+.mini-gallery.maio-laranja{grid-template-columns:1.25fr 1fr;grid-template-rows:1fr 1fr}.mini-gallery.maio-laranja a:first-child{grid-row:1/-1}
 
 .production-band{background:#f5e8ce}
 .production-band .eyebrow{color:#8b5e24}
@@ -168,7 +169,7 @@ footer{background:#102b25;color:#dce8e2;padding:2.5rem 0}.footer-inner{display:f
   body{font-size:16px}.wrap{width:calc(100% - 2rem)}.section{padding-block:4rem}.brand img{width:78px}.brand small{display:none}
   nav{grid-template-columns:1fr 1fr}.hero{padding-block:2.5rem}.hero-grid{gap:2rem}.hero-copy{padding-block:0}.hero-image figcaption{font-size:.8rem}
   .learning-grid,.timeline,.territory-grid,.family-cards{grid-template-columns:1fr}.timeline{border-top:0;border-left:2px solid var(--leaf);padding-left:1rem}.timeline div{padding:0 0 1.6rem 1rem}.timeline div::before{top:.2rem;left:-1.52rem}
-  .story-copy{padding:1.5rem}.mini-gallery{min-height:260px}.event-card .mini-gallery{height:260px;min-height:0}.mini-gallery.five,.mini-gallery.seven{grid-template-columns:repeat(2,1fr);grid-template-rows:auto}.mini-gallery.five a,.mini-gallery.five a:nth-child(4),.mini-gallery.seven a,.mini-gallery.seven a:nth-child(n+4){grid-column:auto;aspect-ratio:1/1}
+  .story-copy{padding:1.5rem}.mini-gallery{min-height:260px}.event-card .mini-gallery{height:260px;min-height:0}.mini-gallery.five,.mini-gallery.seven{grid-template-columns:repeat(2,1fr);grid-template-rows:auto}.mini-gallery.five a,.mini-gallery.five a:nth-child(4),.mini-gallery.seven a,.mini-gallery.seven a:nth-child(n+4){grid-column:auto;aspect-ratio:1/1}.mini-gallery.maio-laranja{grid-template-columns:1fr 1fr;grid-template-rows:1fr 1fr}.mini-gallery.maio-laranja a:first-child{grid-column:1/-1;grid-row:auto}
   .fica-feature{padding:1.35rem}.fica-gallery{grid-template-columns:1fr}
   .photo-strip{grid-template-columns:repeat(2,1fr)}.poster-gallery{grid-template-columns:repeat(2,1fr)}
   .steps{grid-template-columns:1fr}.river-gallery{grid-template-columns:1fr}.footer-inner{flex-direction:column;gap:1rem}
